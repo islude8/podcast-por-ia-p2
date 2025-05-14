@@ -6,7 +6,7 @@ Este modelo foi gerado para realizar testes e descobrir como sera o desempenho d
 
 * Manus I.A. - Geração de Imagem. > https://manus.im/app
 * Chat GPT - Geração de Textos. > https://chatgpt.com
-* ElevenLabs - Geração de Voz. > https://elevenlabs.io/app/home
+* ElevenLabs - Geração de Voz. (Usei a voz da Alice) > https://elevenlabs.io/app/home
 * SoundCloud - Upload de conteudo > https://soundcloud.com/
 
 ## Link para reprodução de conteudo do resultado final do modelo.
